@@ -1,0 +1,33 @@
+
+.navlist {
+  background-color: blue;
+  left: 20px;
+  max-width: 100%;
+  height: 53px;
+  opacity: 1;
+}
+.navlist a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.navlist-right {
+  float: right;
+}
+
+.navlist
+.loginbutton {
+top: 67px;
+left: 1480px;
+width: 159px;
+height: 53px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+font-size:25px;
+}

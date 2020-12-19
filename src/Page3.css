@@ -1,0 +1,56 @@
+container {
+  position: relative;
+}
+.page3-01{
+  position: absolute;
+  top: 3851px;
+  left: 866px;
+  width: 190px;
+  height: 56px;
+  text-align: left;
+  font: normal normal 600 40px/50px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.page3-02{
+  position: absolute;
+  top: 3928px;
+  left: 554px;
+  width: 814px;
+  height: 75px;
+  text-align: center;
+  font: normal normal normal 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.page3-card{
+  position: absolute;
+  top: 4159px;
+  left: 700px;
+  width: 519px;
+  height: 417px;
+  opacity: 1;
+}
+.page3-card-content-button{
+  position:absolute;
+  top: 4159px;
+  left: 771px;
+  width: 121px;
+  height: 45px;
+  background: #0E77FF 0% 0% no-repeat padding-box;
+  border-radius: 31px;
+  opacity: 1;
+  text-align: center;
+  font: normal normal 600 20px/50px Poppins;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+}
+.page3-card-content{
+  position:absolute;
+  top: 4318px;
+  left: 771px;
+  width: 379px;
+  height: 170px;
+}

@@ -1,0 +1,52 @@
+container {
+  position: relative;
+}
+
+.image1 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+}
+.image2 {
+  position: absolute;
+  top: 200px;
+  left: 10px;
+}
+.image3 {
+  position: absolute;
+   top: 280px;
+   left: 226px;
+   width: 531px;
+   height: 197px;
+   opacity: 1;
+}
+.image4{
+  position: absolute;
+  top: 526px;
+  left: 225px;
+  width: 735px;
+  height: 75px;
+  opacity: 1;
+}
+
+.roundbutton{
+   position: absolute;
+   font-size: 24px;
+   top: 641px;
+   left: 225px;
+   width: 239px;
+   height: 72px;
+   border-radius: 35px;
+   opacity: 1;
+}
+.arrow {
+position: absolute;
+top: 671px;
+left: 415px;
+width: 10px;
+height: 12px;
+opacity: 1;
+
+}
