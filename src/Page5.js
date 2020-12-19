@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import styled from "styled-components";
 import girl from "./images/page5/Ellipse 216.png";
-import ellipse from "./images/page5/Ellipse 223.png";
 import dots1 from "./images/page5/Group 35648.png";
 import dots2 from "./images/page5/Group 35649@2x.png";
 import arrow from "./images/page5/Group 35626@2x.png";
